@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.landray</groupId>
 	<artifactId>pdt-core</artifactId>
-	<version>2.0</version>
+	<version>2.3</version>
 	<name>pdt-core</name>
 	<description>landray核心组件包</description>
 
@@ -89,7 +89,7 @@
 		<dependency>
 			<groupId>com.baomidou</groupId>
 			<artifactId>mybatis-plus-boot-starter</artifactId>
-			<version>3.3.1</version>
+			<version>3.4.1</version>
 		</dependency>
 		<!--
 		<dependency>
@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>easyexcel</artifactId>
-			<version>2.2.7</version>
+			<version>3.0.1</version>
 		</dependency>
 		<!-- swagger3 + knife4j -->
 		<dependency>

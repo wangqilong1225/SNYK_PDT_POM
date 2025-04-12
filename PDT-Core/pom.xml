@@ -12,7 +12,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.10</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<dependencies>
@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>easyexcel</artifactId>
-			<version>3.0.1</version>
+			<version>3.1.0</version>
 		</dependency>
 		<!-- swagger3 + knife4j -->
 		<dependency>
